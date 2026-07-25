@@ -1,18 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00CEC9&height=220&section=header&text=Hi%20there,%20I'm%20Jahanvi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20raw%20data%20into%20decisions%20%7C%20Building%20AI-powered%20products&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6C5CE7,100:00CEC9&height=230&section=header&text=Hi%20there,%20I'm%20Jahanvi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Turning%20raw%20data%20into%20decisions%20%7C%20Building%20AI-powered%20products&descAlignY=54&descSize=17" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=6C5CE7&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Machine+Learning+%7C+AI+Products;Turning+messy+data+into+clear+decisions;Streamlit+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+SQL;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/jahanvi-kalia/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
 </a>
+&nbsp;
 <a href="mailto:jkalia_be23@thapar.edu">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-00CEC9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" />
 </a>
+&nbsp;
 <a href="https://github.com/jahanvikalia">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-8E75B2?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Machine+Learning+%7C+AI+Products;Turning+messy+data+into+clear+decisions;Streamlit+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+SQL;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<br><br>
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
@@ -132,9 +142,16 @@ Real-time dashboard concept for eVTOL flight data monitoring.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Jahanvi%20Kalia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanvi-kalia/)
-[![Email](https://img.shields.io/badge/-jkalia__be23@thapar.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jkalia_be23@thapar.edu)
+<a href="https://www.linkedin.com/in/jahanvi-kalia/">
+  <img src="https://img.shields.io/badge/Jahanvi%20Kalia-6C5CE7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A2E" />
+</a>
+&nbsp;
+<a href="mailto:jkalia_be23@thapar.edu">
+  <img src="https://img.shields.io/badge/jkalia__be23@thapar.edu-00CEC9?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1A2E" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CEC9,100:6C5CE7&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CEC9,50:6C5CE7,100:1A1A2E&height=100&section=footer" width="100%"/>
 
 </div>
